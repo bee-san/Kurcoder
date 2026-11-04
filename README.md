@@ -1,5 +1,7 @@
 # Kurcoder
 
+[![Discord](https://img.shields.io/discord/754001738184392704?logo=discord&label=Discord)](https://discord.skerritt.blog)
+
 ![gif](running.gif)
 
 A lightweight encoding & decoding tool [v.0.0.1]
